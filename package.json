@@ -1,0 +1,19 @@
+{
+  "name": "shunt-platform",
+  "author": "",
+  "version": "0.0.0",
+  "description": "Shunt platform",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Shunt-EIP/Plateforme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shunt-EIP/Plateforme/issues"
+  },
+  "dependencies": {
+    "express": "~4.3.0",
+    "coffee-script": "~1.7.1",
+    "mongoose": "~3.8.11"
+  }
+}
